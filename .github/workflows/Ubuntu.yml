@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: SSH connection to Actions
-      uses: P3TERX/ssh2actions@master
+      uses: P3TERX/ssh2actions@main
