@@ -1,7 +1,6 @@
 name: Ubuntu
 on:
-  watch:
-    types: started
+  workflow_dispatch:
 jobs:
   Ubuntu:
     runs-on: ubuntu-latest
