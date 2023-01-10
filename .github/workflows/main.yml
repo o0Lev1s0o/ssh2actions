@@ -1,6 +1,4 @@
-name: 'SSH to GitHub Actions'
-author: 'P3TERX'
-description: 'Connect to GitHub Actions VM via SSH for interactive debugging'
+name: main
 on:
   inputs:
     mode:
